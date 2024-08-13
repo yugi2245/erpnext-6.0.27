@@ -183,7 +183,6 @@ worker:
 
 socketio:
   replicaCount: 1
-  enabled: false
   livenessProbe:
     tcpSocket:
       port: 9000
