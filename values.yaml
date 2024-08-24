@@ -19,7 +19,8 @@ dbRds: true
 image:
   # repository: frappe/erpnext
   repository: 582888538834.dkr.ecr.ap-south-2.amazonaws.com/stanchrepo
-  tag: latest
+  #tag: latest
+  tag: 24082401
   pullPolicy: Always
   # tag: v14.23.0
   # pullPolicy: IfNotPresent
