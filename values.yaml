@@ -10,7 +10,7 @@
 # dbRds: false
 
 # Configure external database host
-dbHost: "stanch-docker-rds.cl6wu64ug0k7.ap-south-2.rds.amazonaws.com"
+dbHost: "stanch-k8s-rds.cl6wu64ug0k7.ap-south-2.rds.amazonaws.com"
 dbPort: 3306
 dbRootUser: "root"
 dbRootPassword: "Du4Y0G4iBHfU0rrgNHDJ"
