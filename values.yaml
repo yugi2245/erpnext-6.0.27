@@ -20,7 +20,7 @@ image:
   # repository: frappe/erpnext
   repository: 582888538834.dkr.ecr.ap-south-2.amazonaws.com/stanchrepo
   #tag: latest
-  tag: v14230z
+  tag: v14230z01
   pullPolicy: Always
   # tag: v14.23.0
   # pullPolicy: IfNotPresent
